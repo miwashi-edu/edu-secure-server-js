@@ -100,3 +100,4 @@ app.listen(PORT, () =>{
 ```bash
 tail -f access.log
 ```
+[Vidare läsning](https://www.elastic.co/guide/en/ecs-logging/nodejs/current/morgan.html)
