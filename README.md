@@ -96,3 +96,7 @@ app.listen(PORT, () =>{
   console.log(`Server is listening to ${PORT}`);
 });
 ```
+## Kolla loggar
+```bash
+tail -f access.log
+```
