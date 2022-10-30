@@ -1,7 +1,7 @@
 # Hashing
 
-[Crypto](https://www.npmjs.com/search?q=crypto)
-[Brute Force](https://www.npmjs.com/package/bruteforce)
+[Crypto](https://www.npmjs.com/search?q=crypto)  
+[Brute Force](https://www.npmjs.com/package/bruteforce)  
 
 ```js
 const crypto = require('crypto');
