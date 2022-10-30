@@ -1,5 +1,13 @@
 ## Encrypt - Decrypt
 
+[rsa](https://en.wikipedia.org/wiki/RSA_(cryptosystem))  
+[spki](https://en.wikipedia.org/wiki/Simple_public-key_infrastructure)   
+[X.509](https://en.wikipedia.org/wiki/X.509)  
+[pem](https://en.wikipedia.org/wiki/Privacy-Enhanced_Mail)  
+[pkcs8](https://en.wikipedia.org/wiki/PKCS_8)  
+[aes](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)  
+
+
 ```js
 const crypto = require('crypto');
 
