@@ -103,3 +103,9 @@ tail -f access.log
 [Vidare läsning](https://www.elastic.co/guide/en/ecs-logging/nodejs/current/morgan.html)
 
 [Hashing](https://github.com/miwashi-edu/edu-secure-server-js/blob/main/crypto.md)  
+
+[TLS](https://github.com/miwashi-edu/edu-secure-server-js/blob/main/TLS.md)  
+
+[JWT](https://github.com/miwashi-edu/edu-secure-server-js/blob/main/JWT.md)    
+
+
